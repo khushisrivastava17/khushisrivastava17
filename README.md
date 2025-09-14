@@ -3,11 +3,9 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=khushisrivastava17">
-    <img src="https://komarev.com/ghpvc/?username=khushisrivastava17&label=Profile%20views&color=00FFFF&style=flat-square" alt="khushisrivastava17's profile views" />
+  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
   </a>
 </p>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjhxkW5ul_XLzOfFm4ajaLw8KUiNIJJ1icA&s" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💻Aspiring Data Analyst passionate about turning data into actionable insights
@@ -15,6 +13,7 @@
 - 🌱 I’m currently learning Python
 - 👾 I love to document life
 - 📫 How to reach me: khushisrivastavapfp@gmail.com
+
 
 
 ## 🧠 My Focus Areas
