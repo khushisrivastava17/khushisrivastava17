@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjhxkW5ul_XLzOfFm4ajaLw8KUiNIJJ1icA&s" alt="Banner" width="100%" />
+
 ## 📌 About Me
 - 💻Aspiring Data Analyst passionate about turning data into actionable insights
 - 🔭 I’m currently working on building projects
@@ -39,4 +41,8 @@
 
 ## 💬 Quote
 > you don't have to be ready, you just have to be brave💗
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
