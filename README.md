@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=khushisrivastava17">
-  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+  
   </a>
 </p>
 
@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning Python
 - 👾 I love to document life
 - 📫 How to reach me: khushisrivastavapfp@gmail.com
-
 
 
 ## 🧠 My Focus Areas
@@ -34,6 +33,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="in/khushi-srivastava10" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Khushi 's LinkedIn"/></a> <a href="mailto:khushisrivastavapfp@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Khushi 's Email"/></a></p>
